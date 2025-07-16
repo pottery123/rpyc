@@ -1,6 +1,6 @@
 {
   "name": "rpyc",
-  "homepage": "https://github.com/pottery123/rpyc",
+  "homepage": "https://pottery123.github.io/rpyc/",
   "private": true,
   "type": "module",
   "scripts": {
